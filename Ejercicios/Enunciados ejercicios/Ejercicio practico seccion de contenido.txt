@@ -1,0 +1,105 @@
+?? Pr芍ctica de secci車n de contenido
+Inicio | Anterior | Siguiente
+
+An芍lisis del texto de la pr芍ctica
+A grandes rasgos podemos hacer la siguiente interpretaci車n seg迆n el significado del contenido del texto. Luego veremos las diferentes formas de estructurar este texto en html.
+
+Enlaces para navegar por la p芍gina
+
+Inicio Personajes Comics Solicitar Informaci車n
+
+T赤tulo principal del documento
+
+Los Vengadores (The Avengers)
+
+Breve introducci車n al art赤culo
+
+T赤tulo de secci車n
+
+Introducci車n
+
+P芍rrafo
+
+Los Vengadores nacen en 1963 de la mente de Stan Lee y Jack Kirby, como respuesta a la famosa Liga de la Justicia de DC c車mic que, por aquel entonces, acaparaba todos los n迆meros uno en los rankings de ventas. Aunque hay que destacar que, a diferencia de La Liga de la Justicia, donde sus integrantes eran lo m芍s de lo m芍s de DC (Superman, Batman, Wonder Woman＃), Los Vengadores que Stan y Jack escogieron para su colecci車n no eran superestrellas de la editorial.
+
+P芍rrafo
+
+No en vano se trataba del grupo m芍s dispar que se hab赤a formado hasta la fecha, con Iron Man (que deb赤a s*us poderes a la tecnolog赤a), Thor (una deidad asgariana), Hulk (una mole de poder y furia incontrolable), El Hombre Hormiga (cient赤fico transformado en h谷roe) y La Avispa (pareja del Hombre Hormiga que obtiene sus poderes de su ciencia). Por aquel entonces, Los Vengadores era una apuesta muy arriesgada con h谷roes muy raros para la 谷poca y tachados de solitarios, obligados por las circunstancias a trabajar en equipo.
+
+Cronolog赤a, relato de la historia de Avengers
+
+T赤tulo de secci車n
+
+Un poco de historia
+
+Subt赤tulo de secci車n
+
+1960
+
+P芍rrafo
+
+Cuando el dios asgardiano Loki busca venganza contra su hermano Thor, sus maquinaciones involuntariamente llevan al adolescente Rick Jones a recoger Ant-Man, Avispa y Iron Man para ayudar a Thor y Hulk, a quien Loki us車 como pe車n. Despu谷s de que el grupo derrot車 a Loki, Ant-Man declar車 que los cinco trabajaron bien juntos y sugirieron que formaran un equipo; Avispa llam車 al grupo, Vengadores
+
+Subt赤tulo de secci車n
+
+1970
+
+P芍rrafo
+
+El equipo encontr車 nuevos personajes como Arkon en el n迆mero (abril de 1970), y Red Wolf en el n迆mero 80 (septiembre de 1970). Las aventuras del equipo aumentaron en alcance cuando el equipo cruz車 a una dimensi車n alternativa y luch車 contra el Escuadr車n Supremo, ?y luch車 en la Guerra Kree-Skrull, ?una batalla 谷pica entre las razas alien赤genas Kree y Skrull y el protagonista invitado Kree, el Capit芍n Marvel. Los Vengadores se disolvieron brevemente cuando los Skrulls se hacen pasar por el Capit芍n Am谷rica, Thor y Iron Man usaron su autoridad como fundadores del equipo y lo disolvieron.?Los verdaderos Vengadores fundadores, menos Avispa, reformaron el equipo en respuesta a las quejas de Jarvis.
+
+Subt赤tulo de secci車n
+
+1980
+
+P芍rrafo El primer gran avance fue el colapso de Henry Pym, ?con sus frecuentes cambios de vestimenta y nombre siendo sintom芍tico de un problema de identidad y un complejo de inferioridad. Despu谷s de abusar de su esposa, no haber recuperado la confianza de los Vengadores con una estratagema y haber sido enga?ado por el villano Egghead, Pym fue encarcelado. ?Pym luego burl車 a Egghead y derrot車 a la 迆ltima encarnaci車n de los Maestros del Mal por su cuenta, y demostr車 su inocencia. Pym se reconcili車 con Avispa, pero decidieron permanecer separados.? Pym se retir車 de los s迆per h谷roes, ?pero regres車 a?os m芍s tarde.
+
+Subt赤tulo de secci車n
+
+1990
+
+P芍rrafo
+
+El gobierno de los Estados Unidos revoc車 la carta del Estado de Nueva York de los Vengadores en un tratado con la Uni車n Sovi谷tica. Los Vengadores luego recibieron un estatuto de las Naciones Unidas y los Vengadores se dividieron en dos equipos con un equipo suplente de reserva que respaldaba a los equipos principales.
+
+Subt赤tulo de secci車n
+
+2000
+
+P芍rrafo
+
+Los Vengadores recibieron la autoridad internacional de las Naciones Unidas. Los miembros que se unieron durante ese per赤odo incluyeron Jack de Corazones y el segundo Ant-Man. Un nuevo Capit芍n Breta?a fue agregado al equipo. La historia de "Vengadores Desunidos" sigui車. Titulado Chaos, la historia presentaba la muerte de algunos miembros y la p谷rdida de credibilidad del equipo. Se revela que la culpable es la Bruja Escarlata, que se hab赤a vuelto loca despu谷s de agonizar por el recuerdo de sus hijos perdidos y que posteriormente perdi車 el control de sus poderes que alteran la realidad. ?Con el equipo en desorden y la mansi車n de los vengadores arruinada, los miembros sobrevivientes acordaron disolverse.
+
+Subt赤tulo de secci車n
+
+2010
+
+P芍rrafo
+
+Despu谷s de que los Vengadores Oscuros de Osborn son expuestos como criminales y su ataque contra Asgard fue frustrado, la pr車xima iteraci車n de la lista de los Vengadores consiste en Thor, Hawkeye, Spider-Man, Wolverine, Capit芍n Am谷rica, Spider-Woman, Iron Man y la l赤der del equipo Maria Hill. ?Steve Rogers, evitando brevemente su personaje de Capit芍n Am谷rica, responde a las preocupaciones de Luke Cage acerca de que el equipo vuelva a los viejos m谷todos al otorgar el reconocimiento de "Nuevos Vengadores" a Cage como un equipo oficial independiente de los Vengadores m芍s tradicionales de Stark. Bucky Barnes como el Capit芍n Am谷rica se uni車 a los principales Vengadores, mientras que Iron Fist, Power Woman y la Mole se unieron al equipo de Cage, Spider-Man y Wolverine manteniendo la membres赤a doble en ambos equipos. Rogers era una presencia ocasional y Victoria Hand se a?adi車 como un enlace del gobierno para los Nuevos Vengadores con el respaldo de Rogers.
+
+M芍s informaci車n
+
+T赤tulo de secci車n
+
+?C車mo se unieron los h谷roes m芍s poderosos de la Tierra?
+
+P芍rrafo
+
+Pues en el primer n迆mero del c車mic de Los Vengadores, se nos narra c車mo Loki, hermano de Thor de insaciable ambici車n, tiende una trampa a Hulk para que le consideren culpable de un accidente de tren (aunque en realidad consigue salvar a todos los viajeros). Tras esto, Loki env赤a un mensaje para que lo intercepte su hermano y, as赤, tenderle una emboscada. Por suerte para Thor, el mensaje tambi谷n llega a o赤dos de El Hombre Hormiga, El Hombre de Hierro y La Avista. Juntos, descubren que todo ha sido una encerrona y acaban con los planes de Loki. As赤 nacieron Los Vengadores.
+
+P芍rrafo
+
+De esta forma, se considera que la formaci車n original de Los Vengadores est芍 compuesta por Hulk, Thor, Iron Man, La Avispa y El Hombre Hormiga. Siendo en el c車mic n迆mero cuatro el primero donde aparece ya El Capit芍n Am谷rica. De esta forma se completa as赤 el tridente cl芍sico de Los Vengadores: Iron Man, Thor y El Capit芍n Am谷rica.
+
+T赤tulo de secci車n
+
+Un grupo en constante cambio
+
+P芍rrafo
+
+Uno de los principales atractivos de la formaci車n, en los c車mics claro, es la incesante marea de superh谷roes que pasan por Los Vengadores. No en vano, hasta la fecha, son m芍s de 75 los superh谷roes que han formado parte del grupo y que podemos dividir en tres categor赤as: miembros completos (los que acuden a todas las misiones), reservas (que van cuando alg迆n superh谷roe no puede) y honorarios (que nunca formaron parte oficial de Los Vengadores pero se les otorga este cargo como reconocimiento a alguna ayuda prestada).
+
+Footer
+
+Marvel's Avengers
