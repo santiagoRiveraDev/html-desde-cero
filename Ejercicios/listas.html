@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas en HTML</title>
+</head>
+<body>
+    <h1>Listas en HTML</h1>
+    <!--
+        Las listas en HTML sirven para listar contenido.
+        En funcion del tipo de contenido de nuestra lista
+        tenemos tres tipos de listas:
+
+        ul -> unordered list: Se utiliza cuando el orden del
+        contenido no importa(lista de compra)
+
+        ol -> ordered list: Se utilizan cuando el orden de los
+        elementos es importante(top 10)
+
+        dl -> definition list: Se utilizan para hacer uns lista
+        de deficiniones(diccionario)
+
+        li -> list item: Etiqueta utilizada para representar cada
+        elemento de la lista
+
+            Cada elemento de una definition list lleva dos etiquetas
+            dt -> definition term:
+                El termino que vamos a definir
+            dd -> definition description:
+                Definicion del termino
+    -->
+
+    <header>
+        <!--Forma semantica de representar una lista-->
+        <nav>
+            <ul>
+                <li><a href="#post-1">Post 1</a></li>
+                <li><a href="#post-2">Post 2</a></li>
+                <li><a href="#post-3">Post 3</a></li>
+                <li><a href="#post-4">Post 4</a></li>
+                <li><a href="#post-5">Post 5</a></li>
+                <li><a href="#post-6">Post 6</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <ul>
+        <li>Pan</li>
+        <li>Huevos</li>
+        <li>Leche</li>
+    </ul>
+
+    <!--Listas ordenadas = Ordered list(ol) -->
+    <h2>Ruta de aprendizaje en Desarrollo Web</h2>
+
+    <ol>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+    </ol>
+
+    <!--Listas de definicion = definition list(dl)-->
+    <h2>Lenguajes para el Desarrollo Web</h2>
+
+    <dl>
+        <dt>HTML(Hipertext Markup Language):</dt>
+        <dd>
+            Es un lenguaje de marcado que se utiliza para estructurar
+            datos en una pagina web.
+        </dd>
+        <dt>CSS(Cascade Style Sheet):</dt>
+        <dd>
+            Es un lenguaje de marcado que se utiliza para dar estilos
+            en una pagina web.
+        </dd>
+        <dt>JS(Javascript):</dt>
+        <dd>
+            Es un lenguaje de programacion que se utiliza para dar
+            interactividad a una pagina web.
+        </dd>
+    </dl>
+</body>
+</html>
