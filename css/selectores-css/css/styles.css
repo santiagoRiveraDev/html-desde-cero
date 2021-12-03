@@ -1,0 +1,47 @@
+/* Selectores*/
+
+/*
+    Selectores simples,
+        Selectores elementales
+            Selector universal -> *
+            Selector de etiqueta -> nombre de la etiqueta
+        Selectores de atributo
+            id -> se coloca el id del elemento se representa con el simbolo #nombreId y no se recomienda dar estilos con id
+            clase -> se coloca la clase del elemento se representa .nombreClase se pueden reutilizar en cual quier elemento
+            otros atributos.
+    Selectores compuestos
+        Selectores agrupados
+        Selectores combinadores
+        Pseudoclases - Pseudoelementos
+*/
+
+/* *{
+background-color: lightskyblue;
+}
+
+h1{
+background-color: antiquewhite;
+}
+
+p{
+background-color: burlywood;
+}
+
+ul{
+background-color: aquamarine;
+}
+
+li{
+background-color: bisque;
+} */
+
+
+.title{
+    background-color: #109e9e;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.text{
+    background-color: darkgoldenrod;
+}

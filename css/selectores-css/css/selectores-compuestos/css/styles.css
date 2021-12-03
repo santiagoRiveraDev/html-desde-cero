@@ -1,0 +1,18 @@
+/* Selectores compuestos
+        Selectores agrupados -> se agrupan los selectores separados por comas y se escribe
+        el mismo estilo una vez.
+        Selectores combinadores:
+            Selectores descendientes
+*/
+
+/* .text,
+.text-2,
+.text-3,
+.text-4{
+    background-color: beige;
+} */
+
+div .text-2{
+    background-color:#2798ac;
+}
+
