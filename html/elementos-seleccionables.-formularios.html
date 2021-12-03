@@ -88,7 +88,7 @@
             <option value="html">HTML</option>
             <option value="css">CSS</option>
             <option value="javascript">JAVASCRIPT</option>
-        </select>br
+        </select><br>
         <h2>Select avanzado</h2>
         <select name="mascotas">
             <optgroup label="4 patas">
@@ -122,7 +122,10 @@
             <label for="name">Nombre</label>
             <input type="text" id="name" />
             <label for="apellido">Apellido</label>
-            <input type="text" id="apellido" />
+            <input type="text" id="apellido" /><br>
+            <label for="correo">Email</label>
+            <input type="email" placeholder="Ingresa tu correo" required>
+            <input type="submit">
         </fieldset>
         <input type="file"><br>
         <label for="fuel">Gasolina</label>
@@ -130,6 +133,18 @@
         <label for="task">Tarea 1</label>
         <progress id="task" max="100" value="10"></progress><br>
         <textarea name="" id="" cols="30" rows="10"></textarea>
+    </form>
+
+    <form action="">
+        <input type="text" placeholder="Escribe algo" required>
+        <input type="text" value="Hola">
+        <select name="numbers" id="numbers">
+            <option value="one">One</option>
+            <option value="two">Two</option>
+        </select><br>
+        <input type="number">
+        <input type="text" value="Readonly" readonly>
+        <input type="submit">
     </form>
 </body>
 
